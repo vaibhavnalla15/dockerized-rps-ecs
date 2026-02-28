@@ -140,12 +140,16 @@ docker rmi <image_id>
 
 ## 📸 Output
 
+### Runnig ECS service
 ![ECS service running](./screenshots/ecs-service.png)
 
+### Port Mapping to port 5000
 ![Port Mapping to 5000](./screenshots/task-definition.png)
 
+### Checking Healthy Target Group
 ![Target group healthy](./screenshots/healthy-target-group.png)
 
+### RPS Game User vs Computer
 ![Application UI via ALB DNS](./screenshots/ss-1.png)
 
 ![Application UI via ALB DNS](./screenshots/ss-2.png)
